@@ -4,5 +4,4 @@ API com Spring Boot para gerenciar nossas salas de reunião, foi utilizado o Spr
 
 Link para o projeto Angular (Front-end) : https://github.com/techGabrielBr/room-manager-angular
 
-# Aplicação desenvolvida durante o Santander Full-Stack Bootcamp 
-# Instrutora: Kamila Santos
+### Aplicação desenvolvida durante o Santander Full-Stack Bootcamp 
